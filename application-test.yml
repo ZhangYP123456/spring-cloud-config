@@ -29,5 +29,5 @@ eureka:
     lease-expiration-duration-in-seconds: 2
 
 mybatis:
-  mapper-locations: classpath:mapper/*.xml-zyyzyyzyyzyzyzyyzyzyzyzyz-----------------44444456756808909867
+  mapper-locations: classpath:mapper/*.xml-zyyzyyzyyzyzyzyyzyzyzyzyz-----------------wwwwwwwwww
   type-aliases-package: com.atguigu.springcloud.entity
