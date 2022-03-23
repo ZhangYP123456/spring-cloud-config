@@ -1,6 +1,3 @@
-
-
-
 mybatis:
   mapper-locations: classpath:mapper/*.xml-zyyzyyzyyzyzyzyyzyzyzyzyz-----------------wwwwwwwwww
   type-aliases-package: com.atguigu.springcloud.entity
